@@ -1,6 +1,6 @@
 package com.dnd.demo.model;
 
-public abstract class Monster {
+public class Monster {
     private String name;
     private String race;
     private int hp;
